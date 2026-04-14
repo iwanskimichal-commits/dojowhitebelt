@@ -3,3 +3,4 @@ dojowhitebelt
 new line sdsdsdfdfd
 asdasdasdasda lkflsdfkdsl sfasfasf
 commit is about to be proceeded
+Changes shall be apllied.
